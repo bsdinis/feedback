@@ -16,4 +16,4 @@ There are scenarios where a person receives feedback from their team of from som
 
 | Characteristics | Example | Effect |
 | --------------- | ------  | ------ |
-| Indicates specific behaviors | "The previous commit "
+| Indicates specific behaviors | "The previous commit was not so good because you did not add any message indicating the changes" | The engineer will know which specific behavior needs to change. |
