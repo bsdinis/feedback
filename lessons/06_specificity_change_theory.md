@@ -8,16 +8,17 @@ Even if sometimes people have good intentions about sharing their thoughts with 
 For example, in the code reviews, we can find some generic feedback as the following:
 
 1. The code is not very efficient, can you please optimize some of it?
-2. I find very difficult to understand
+2. I find your code very difficult to understand
 3. There are some lines that do not follow the our coding best practices
 
-Even if the previous sentences are well intentioned they can confuse a junior developer, for example. For the item number one of our previous list, the junior engineer can start asking themselves these questions,
+Even if the previous sentences are well intentioned they can confuse a junior developer For the item number one of our previous list, the junior engineer can start asking themselves these questions,
 
-*Is all my code not efficient? Is there a specific part of my code that is not well designed?*
+*Is all my code not efficient or only a specific function? Is there a specific part of my code that is not well designed?*
 
 After all, the feedback is important in every part of the teams, but sometimes junior developers need a very concise way since they are starting their careers and learning the good coding practices of their new teams.
 
-How can engineers provide a better feedback and be more precise? There are some methodologies already established for this, in this case the S.T.A.R. methodology will be approached.
+
+How can engineers provide a better feedback and be more precise? There are some methodologies already established for this, in this case the S.T.A.R. and S.B.I methodology will be approached.
 
 ## S.T.A.R. Methodology
 
@@ -46,6 +47,18 @@ Once the person that is going to give the feedback already thought in the previo
   - Specific feedback "I didn't like your last submission because you used your own code instead of using the already built-in functions previously developed by the team".
 
 
+## S.B.I methodology
+
+| S.B.I Concept | Definition | Examples |
+| ------------- | ---------- | -------- |
+| Situation | Describe the situation. Be specific about when and where it occurred, use concepts of time and place, that can help (CCL, 2021). | "During the last iteration of the project ... ". |
+| Behavior  | Describe what you observer in the other person behavior, don't assume that people can guess what you are thinking (CCL, 2021). |  "I noticed that you lacked of time to submit the last iteration of the project and instead of giving a heads up, you just submitted an incomplete commit". |
+| Impact | Describe what you thought or felt in reaction to the behavior (CCL, 2021). | "The team felt that you did not thought in the team, since your incomplete commit gave more work to the reviewers". |
+
+
 References:
 
+
 About DDI | Leadership Assessment & Development. (n.d.). DDI. Retrieved October 31, 2021, from https://www.ddiworld.com/about/history
+
+CCL. (2021, September 15). Use SBI (situation-behavior-impact) to understand intent. Center for Creative Leadership (CCL). Retrieved November 14, 2021, from https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/.
