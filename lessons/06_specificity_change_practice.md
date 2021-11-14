@@ -1,6 +1,6 @@
 # 6. Specificity of feedback II. The trip from general to specific feedback: Practice
 
-Hi again! Now you need to help in the next section. Taking into account the code reviews from the section 5, now we need your expertise in converting this generic feedback into specific feedback. Please, leave your comments below.
+Hi again! Now you need to help us in the next section. Taking into account the code reviews from the section 5, now we need your expertise into converting this generic feedback to specific feedback. Please, leave your comments below.
 
 1st Tak.
 Taking into account this code review from Pedro:
@@ -16,7 +16,7 @@ How can you improve it? Please write below your own version of this feedback. Ta
 Specific Feedback:
 
 2nd Task.
-Try to improve the review from Ana
+Try to improve this review from Ana
 
 >AnaAmazonia comments:
 >
