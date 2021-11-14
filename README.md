@@ -42,6 +42,6 @@ We encourage everyone to open an issue with questions or suggestions, and pull r
 |  89416 | Baltasar Dinis   | baltasar.dinis@tecnico.ulisboa.pt |
 |  92449 | Diana Moniz      | ???                               |
 |  98717 | Rafael Câmara    | ???                               |
-| 101682 | Sebastián Chimal | ???                               |
+| 101682 | Sebastián Chimal | sebastianchimal@tecnico.ulisboa.pt |
 
 This course was designed in the context of the CCEIC curricular unit, for the Fall 2021 semester at IST Lisbon.
