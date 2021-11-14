@@ -2,7 +2,7 @@
 
 ## Origins of the term feedforward
 
-The term of feedback is a word that most of the people is familiar with, but in 1951 I.A. Richards develop the term of feedforward. In Richards' words (1951, as cited in Logan 2015), feedforward stands in opposition to feedback. While feedback is reactive, the feedforward is proactive, since it anticipates to the the goals . While I.A. Richards focused more in the technology applications of the concept feedforward, several decades later  Marshall Goldsmith adapted this term to a specific framework of how to start using this feedforward as a technique to improve behaviors. 
+The term of feedback is a word that most of the people is familiar with, but in 1951 I.A. Richards develop the term of feedforward. In Richards' words (1951, as cited in Logan 2015), feedforward stands in opposition to feedback. While feedback is reactive, the feedforward is proactive, since it anticipates to the the goals . While I.A. Richards focused more in the technology applications of the concept feedforward, several decades later  Marshall Goldsmith adapted this term to a specific framework of how to start using this feedforward as a technique to improve behaviors (Marshall Goldsmith, 2015).
 
 
 ## Main concept of feedforward
@@ -27,13 +27,14 @@ As it is explained here, the main point of the feedforward is to focus in changi
 
 ## Examples of feedforward?
 
-"In your last code review I noticed that you use Pascal Case for your variables, have you heard of the Camel case format? This format is the one used in our team and you can read more about this specific format in the documentation. For the next iteration would be great if you can include the Camel case format, since we always try to have a consistent style in our code"
+- "In your last code review I noticed that you use Pascal Case for your variables, have you heard of the Camel case format? This format is the one used in our team and you can read more about this specific format in the documentation. For the next iteration would be great if you can include the Camel case format, since we always try to have a consistent style in our code"
 
-"I noticed that in your last commit there were several programs using several nested if clauses. There is another option to this lines, which is a switch clause. I can recommend you checking the documentation online for this switch clause and try to implement it in the next commit, you will enjoy this learning experience. Additionally, it will improve the readability of the code, which will benefit you at the end since it will be easier for you to understand your code."
+- "I noticed that in your last commit there were several programs using several nested *if* clauses. There is another option to this lines, which is a switch clause. I can recommend you to check the online documentation for this switch clause and try to implement it in the next commit, you will enjoy this learning experience. Additionally, it will improve the readability of the code, which will benefit you at the end, since it will be easier to understand your code."
 
 
 
+Goldsmith, M. (2015, October 29). Try feedforward instead of feedback. Marshall Goldsmith. Retrieved November 14, 2021, from https://marshallgoldsmith.com/articles/try-feedforward-instead-feedback/.
 
 Logan, R. K. (2015). Feedforward, I. A. Richards, cybernetics and Marshall McLuhan. CORE. Retrieved October 31, 2021, from https://core.ac.uk/display/54849829.
 
-YouTube. (2007). Marshall Goldsmith and FeedForward. YouTube. Retrieved October 31, 2021, from https://www.youtube.com/watch?v=tFX74GIxca4&amp;ab_channel=MarshallGoldsmith.
+Marshall Goldsmith. (2007). Marshall Goldsmith and FeedForward[Video]. Youtube. https://www.youtube.com/watch?v=tFX74GIxca4&amp;ab_channel=MarshallGoldsmith.
