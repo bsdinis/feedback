@@ -1,9 +1,11 @@
 # 7. Back to the Future IV. The feedforward: Practice
 
-Hey! Thanks for all your help in the previous exercises, your help will almost finish but before that, we just need your help in a very important part. Amazonia managers started reading about this technique of feedforward. Most probably, you are already aware about this so I would like you to do the following.
+Hey! Thanks for all your help in the previous exercises, your help will almost finish but before that, we just need your help in a very important part. Amazonia managers started reading about this technique of feedforward. Most probably, you are already aware of this so, I would like you to do the following.
 
-1) Since management has been researching about feedforward, they would like to understand the points that make "feedforward" a good asset for the company.
-Please, mention some advantages.
+1) Since management has been researching about feedforward, they would like to understand the points that make "feedforward" a good asset for the company. Please, mention some advantages:
+
+
+
 
 2) During a meeting, management start to think in examples of feedforward. Can you indicate if they are or not?
 
@@ -16,7 +18,7 @@ Why ?
 
 Example 2:
 
-"Your past commits had not been the best. You should have paid more attention to the previous comments, that way you would had less errors"
+"Your past commits had not been the best. You should have paid more attention to the previous comments, that way you would have less errors"
 
 Is it feedforward?
 Why?
