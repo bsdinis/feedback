@@ -20,7 +20,7 @@ Answer:
 
 
 2nd Code Review.
-Context: The past week, there was a dinner in Amazonia for the Sr. engineers, unfortuntely many of them suffer from food poisoning and the didn't come to work for some days. During that days only Ana was doing code reviews. When the other Sr. engineers arrived again to the work, they  mentioned that the feedback was not clear enough. Please, check it an determine if Ana gave general or specific feedback in his code reviews.
+Context: The past week, there was a dinner in Amazonia for the Sr. engineers, unfortuntely many of them suffer from food poisoning and they didn't come to work for some days. During that days only Ana was doing code reviews. When the other Sr. engineers arrived again to the work, they  mentioned that the feedback was not clear enough. Please, check it an determine if Ana gave general or specific feedback in his code reviews.
 
 >AnaAmazonia comments:
 >
