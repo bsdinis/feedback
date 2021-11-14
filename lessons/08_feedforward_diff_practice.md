@@ -1,6 +1,6 @@
 # 8. Feedback and feedforward. The differences: Practice
 
-Hi! Finally, your time in Amazonia has arrived to an end. We would love to have you working in our next stages, unfortuntely you are a very busy consultor and we understand.
+Hi! Finally, your time in Amazonia has arrived to an end. We would love to have you working in our next stages, unfortuntely you are a very busy consultor and we understand this.
 As a final task, the managers from Amazonia read your notes from the previous stage, the introduction to feedforward and they decided to make new attempts. Some of the Sr. Managers think that some people may still using feedback as feedforward. Can you review this two examples and identify if they are feedback or feedforward?
 
 
