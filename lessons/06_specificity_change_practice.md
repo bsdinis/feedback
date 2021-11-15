@@ -2,7 +2,8 @@
 
 Hi again! Now you need to help us in the next section. Taking into account the code reviews from the section 5, now we need your expertise into converting this generic feedback to specific feedback. Please, leave your comments below.
 
-1st Task.
+## Exercise 1
+
 Taking into account this code review from Pedro:
 
 >PedroAmazonia comments:
@@ -17,7 +18,8 @@ Specific Feedback:
 
 
 
-2nd Task.
+## Exercise 2
+
 Try to improve this review from Ana
 
 >AnaAmazonia comments:
@@ -33,3 +35,9 @@ After you identified in the previous section that the feedback was too general, 
 To make the specific feedback for Ana's previous code review you might want to take the previous points into consideration.
 
 Specific Feedback:
+
+---
+
+[Previous Lesson: 6. Theory](06_specificity_change_theory.md)
+
+[Next Lesson: 7. Theory](07_feedforward_intro_theory.md)

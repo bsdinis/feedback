@@ -41,8 +41,11 @@ We encourage everyone to open an issue with questions or suggestions, and pull r
 |:------:|:-----------------|:----------------------------------|
 |  89416 | Baltasar Dinis   | baltasar.dinis@tecnico.ulisboa.pt |
 |  92449 | Diana Moniz      | dianamoniz@tecnico.ulisboa.pt     |
-|  98717 | Rafael Câmara    | ???                               |
 | 101682 | Sebastián Chimal | sebastianchimal@tecnico.ulisboa.pt |
 
 
 This course was designed in the context of the CCEIC curricular unit, for the Fall 2021 semester at IST Lisbon.
+
+### References
+
+Each lesson has (when required) their own reference sub section. This makes it easier for you to consult the references when reading the texts, makes it clear which references were consulted when designing each part of the course and helps the numbering to be consistently available throughout the couse.

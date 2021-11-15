@@ -26,8 +26,14 @@ So, if the person who delivers the feedback does not explain the reference or th
 | Relate to a measurable goal | "With the previous commit of the code, you surpassed the threshold of 21 errors by program, take this into consideration". | When the feedback can relate to a measurable goal, almost 46% of the people can improve their actions (John Hattie & Helen Timperley, 2007, Table 2).
 
 
-Rerefences:
+### Rerefences:
 
-Hattie, J. & Timperley, H. (2007). The power of feedback. Review of Educational Research, 77(1), 81–112. https://doi.org/10.3102/003465430298487
+[1]: [Hattie, J. & Timperley, H. (2007). The power of feedback. Review of Educational Research, 77(1), 81–112.](https://doi.org/10.3102/003465430298487)
 
-Ramaprasad, A. (1983). On the definition of feedback. Behavioral Science, 28(1), 4–13. https://doi.org/10.1002/bs.3830280103
+[2]: [Ramaprasad, A. (1983). On the definition of feedback. Behavioral Science, 28(1), 4–13.](https://doi.org/10.1002/bs.3830280103)
+
+---
+
+[Previous Lesson: 4. Practice](04_innefective_practice.md)
+
+[Next Lesson: 5. Practice](05_specificity_diff_practice.md)

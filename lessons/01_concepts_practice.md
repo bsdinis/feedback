@@ -21,3 +21,9 @@ Recall the examples given in the theory part.
  - "Generally, you can improve"
 
 Which of these can be construed as *effective* feedback? For the ones you did not choose, rewrite them so as to make them effective feedback.
+
+---
+
+[Previous Lesson: 1. Theory](01_concepts_theory.md)
+
+[Next Lesson: 2. Theory](02_objective_theory.md)
