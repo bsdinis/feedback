@@ -25,4 +25,4 @@ Context: The past week there was a dinner in Amazonia for the Sr. engineers, unf
 >
 >Hi Néstor! I loved how you implemented the functions in your program. Although there were some parts in the code that you didn't follow some of the best practices. Try to double check this and commit the code again.
 
-Question: Did Ana gave general or specific feedback to Néstor?
+Question: Did Ana give general or specific feedback to Néstor?
