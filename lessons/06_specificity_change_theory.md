@@ -1,7 +1,7 @@
 # 6. Specificity of feedback II. The trip from general to specific feedback: Theory
 
 
-## Why we need to give specific feedback?
+## Why do we need to give specific feedback?
 
 Even if sometimes people have good intentions about sharing their thoughts with other people, the feedback can be so general that the receptor is confused about the next step.
 
@@ -9,7 +9,7 @@ For example, in the code reviews, we can find some generic feedback as the follo
 
 1. The code is not very efficient, can you please optimize some of it?
 2. I find your code very difficult to understand
-3. There are some lines that do not follow the our coding best practices
+3. There are some lines that do not following our coding best practices
 
 Even if the previous sentences are well intentioned they can confuse a junior developer For the item number one of our previous list, the junior engineer can start asking themselves these questions,
 
