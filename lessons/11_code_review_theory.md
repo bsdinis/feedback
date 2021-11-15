@@ -51,5 +51,7 @@ When reviewing code make sure that:
 ### References
 
 [1]: [Linus Torvalds (2014, July 24). _Re: Random panic in load_balance() with 3.16-rc_. Linux kernel mailing list](https://lkml.org/lkml/2014/7/24/584)
+
 [2]: [Google (n.d.). _Code Review Developer Guide_. Google](https://google.github.io/eng-practices/review/)
+
 [3]: [Google (n.d.). _The Standard of Code Review_. Google](https://google.github.io/eng-practices/review/reviewer/standard.html)

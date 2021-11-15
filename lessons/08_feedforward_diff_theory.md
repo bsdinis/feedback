@@ -24,5 +24,7 @@ Behaviors associated with the fastforward:
 ### References:
 
 [1]: [Goldsmith, M. (2015, October 29). Try feedforward instead of feedback. Marshall Goldsmith](https://marshallgoldsmith.com/articles/try-feedforward-instead-feedback/)
+
 [2]: [Gonzalez, J., &  Hirsch, J. (2018, January). Moving from Feedback to Feedforward. The Cult of Pedagogy Podcast](ttps://www.cultofpedagogy.com/pod/episode-87/)
+
 [3]: McDowall, A., Freeman, K., &  Marshall, S. (2014). Is Feedforward the way forward? A comparison of the effects of Feedforward coaching and Feedback. International Coaching Psychology Review, 9(2), 135–146

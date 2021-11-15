@@ -51,6 +51,9 @@ However, it is still important to analyse the feedback you received in written a
 ### References
 
 [1]: [Indeed Editorial Board (2021, February). _How to Ask for Feedback_. Indeed](https://www.indeed.com/career-advice/career-development/how-to-ask-for-a-feedback)
+
 [2]: [ACT Government (n.d). The Art of Feedback: Giving, Seeking and Receiving Feedback. [White Paper]. ACTPS Performance Framework.](http://www.cmd.act.gov.au/__data/assets/pdf_file/0003/463728/art_feedback.pdf)
+
 [3]: [Merriam-Webster Dictionary (n.d). yes-man. [Dictionary Entry]. Merriam-Webster](https://www.merriam-webster.com/dictionary/yes-man)
+
 [4]: [Kletische (2021, November). _Why "Yes Men" are Dangerous, and How to Easily Spot Them_. Kletische](https://kletische.com/surrounded-yes-men-dangerous/)

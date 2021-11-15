@@ -39,4 +39,5 @@ There are many other elements that can help in building effective feedback, and 
 ### References:
 
 [1]: [Babauta, L. (2007, October). How to Give Kind Criticism, and Avoid Being Critical. *Zen Habits* Blog.](https://zenhabits.net/how-to-give-kind-criticism-and-avoid-being-critical/)
+
 [2]: [MacKay, J. (2017, September 25). The 7 Essential Qualities of Effective Feedback. Zapier.](https://www.mindtools.com/pages/article/newTMM_98.htm)
