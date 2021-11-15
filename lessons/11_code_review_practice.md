@@ -1,3 +1,5 @@
 # 11. Code review. The bits and bytes of feedback: Practice
 
-TODO
+# Exercise
+
+Take one of your old code projects from a class. If it isn't already, place it in a repository. Make an improvement and ask for feedback from a colleague. Switch places and repeat (being a code reviewer).

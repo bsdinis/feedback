@@ -21,7 +21,7 @@ We have 11 lessons for you, which we designed to be followed sequentially:
 1. Feedback and feedforward: the differences. [Theory](/lessons/08_feedforward_diff_theory.md) [Practice](/lessons/08_feedforward_diff_practice.md)
 1. From feedback to feedforward. [Theory](/lessons/09_feedforward_change_theory.md) [Practice](/lessons/09_feedforward_change_practice.md)
 1. Asking for effective feedback. [Theory](/lessons/10_asking_theory.md) [Practice](/lessons/10_asking_practice.md)
-1. Code review: the bits and bytes of feedback. [Theory](/lessons/11_code_review_theory.md) [Practice](/lessons/11_code_review_practice.md)
+1. Code review: the bits and bytes of feedback. [Theory](/lessons/11_code_review_theory.md) [Practice](/lessons/11_code_review_practice.md) *This is the extra objective*
 
 Each has a theoretical component, followed by a practical component where you can exercise what you just learned. You should submit the practical component by:
 
