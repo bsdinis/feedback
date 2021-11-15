@@ -33,7 +33,7 @@ The S.T.A.R model can help in giving specific feedback since it allow the people
 | Action | Which was the tasks that have been done or not? (DDI, 2021) |Senior developer to Junior developer: "Because the lack of the formatting style in your last code, you spent twice the time that that you would have if you had followed them since the beginning" |
 | Result | Which was the impact of the action? (DDI, 2021)| Senior developer to Junior developer: "The work of the code reviewer is going to complicate more if engineers do not follow coding guidelines, since they are already used to one way of working" |
 
-Once the person that is going to give the feedback already thought in the previous items, they need to know that the vague words are something to be avoided in terms of giving feedback.  
+Once the person that is going to give the feedback already thought in the previous items, they need to know that the vague words are something to be avoided in terms of giving feedback.
 
 - Avoid vague sentences. Even if the intention is good, a vague sentence will not be very helpful.
   - General feedback: "Your code needs improvement".
@@ -53,9 +53,8 @@ Once the person that is going to give the feedback already thought in the previo
 | Impact | Describe what you thought or felt in reaction to the behavior (CCL, 2021). | "The team felt that you did not thought in the team, since your incomplete commit gave more work to the reviewers". |
 
 
-References:
+### References:
 
+[1]: [About DDI | Leadership Assessment & Development. (n.d.). DDI. Retrieved October 31, 2021](https://www.ddiworld.com/about/history)
 
-About DDI | Leadership Assessment & Development. (n.d.). DDI. Retrieved October 31, 2021, from https://www.ddiworld.com/about/history
-
-CCL. (2021, September 15). Use SBI (situation-behavior-impact) to understand intent. Center for Creative Leadership (CCL). Retrieved November 14, 2021, from https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/.
+[1]: [CCL. (2021, September 15). Use SBI (situation-behavior-impact) to understand intent. Center for Creative Leadership (CCL). Retrieved November 14, 2021](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/.)

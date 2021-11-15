@@ -33,8 +33,8 @@ As it is explained here, the main point of the feedforward is to focus in changi
 
 
 
-Goldsmith, M. (2015, October 29). Try feedforward instead of feedback. Marshall Goldsmith. Retrieved November 14, 2021, from https://marshallgoldsmith.com/articles/try-feedforward-instead-feedback/.
+### References
 
-Logan, R. K. (2015). Feedforward, I. A. Richards, cybernetics and Marshall McLuhan. CORE. Retrieved October 31, 2021, from https://core.ac.uk/display/54849829.
-
-Marshall Goldsmith. (2007). Marshall Goldsmith and FeedForward[Video]. Youtube. https://www.youtube.com/watch?v=tFX74GIxca4&amp;ab_channel=MarshallGoldsmith.
+[1]: [Goldsmith, M. (2015, October 29). Try feedforward instead of feedback. Marshall Goldsmith. Retrieved November 14, 2021](https://marshallgoldsmith.com/articles/try-feedforward-instead-feedback/)
+[2]: [Logan, R. K. (2015). Feedforward, I. A. Richards, cybernetics and Marshall McLuhan. CORE. Retrieved October 31, 2021](https://core.ac.uk/display/54849829)
+[3]: [Marshall Goldsmith. (2007). Marshall Goldsmith and FeedForward[Video]. Youtube.](https://www.youtube.com/watch?v=tFX74GIxca4&amp;ab_channel=MarshallGoldsmith)

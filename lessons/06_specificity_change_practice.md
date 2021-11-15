@@ -2,7 +2,8 @@
 
 Hi again! Now you need to help us in the next section. Taking into account the code reviews from the section 5, now we need your expertise into converting this generic feedback to specific feedback. Please, leave your comments below.
 
-1st Task.
+## Exercise 1
+
 Taking into account this code review from Pedro:
 
 >PedroAmazonia comments:
@@ -17,7 +18,8 @@ Specific Feedback:
 
 
 
-2nd Task.
+## Exercise 2
+
 Try to improve this review from Ana
 
 >AnaAmazonia comments:

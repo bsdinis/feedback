@@ -5,8 +5,8 @@ Hi! You were just hired to identify improvements in the behavior of code reviewe
 
 Please, read the following code reviews and identify if there is any room for improvement.
 
-1st Code Review.
-Context: This is one of the first programs from Diego, a very new intern at Amazonia to which Pedro left a code review some days ago. Please check if the code review can be improved. For now, it is not necessary to recommend changes, you will be able to do this task in our next sessions.
+### 1st Code Review.
+*Context*: This is one of the Diego's first programs, a very new intern at Amazonia to which Pedro left a code review some days ago. Please check if the code review can be improved. For now, it is not necessary to recommend changes, you will be able to do this task in our next sessions.
 
 >PedroAmazonia comments:
 >
@@ -18,8 +18,8 @@ Question: Does this feedback provide enough information to Diego of what he need
 Answer:
 
 
-2nd Code Review.
-Context: The past week there was a dinner in Amazonia for the Sr. engineers, unfortuntely many of them suffer from food poisoning and they didn't come to work for some days. During that days only Ana was doing code reviews. When the other Sr. engineers arrived again to the work, they  mentioned that the feedback was not clear enough. Please, check it and determine if Ana gave general or specific feedback in his code reviews.
+### 2nd Code Review.
+*Context*: The past week there was a dinner in Amazonia for the Sr. engineers, unfortuntely many of them suffer from food poisoning and they didn't come to work for some days. During that days only Ana was doing code reviews. When the other Sr. engineers arrived again to the work, they  mentioned that the feedback was not clear enough. Please, check it and determine if Ana gave general or specific feedback in his code reviews.
 
 >AnaAmazonia comments:
 >
