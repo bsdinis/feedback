@@ -23,3 +23,9 @@ Notice how these examples reinforce the future-oriented approach of feedforward 
 ### References:
 
 [1]: [Lauritsen, J. (2021, June 16). The skills you'll need to evolve from feedback to feedforward. *cornerstone* Blog.](https://www.cornerstoneondemand.com/resources/article/skills-need-evolve-feedback-feedforward/)
+
+---
+
+[Previous Lesson: 8. Practice](08_feedforward_diff_practice.md)
+
+[Next Lesson: 9. Practice](09_feedforward_change_practice.md)

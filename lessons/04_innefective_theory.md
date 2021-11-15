@@ -26,3 +26,9 @@ We have already seen many of the elements that constitute giving good and effect
 ### References:
 
 [1]: [Secrets of Effective Feedback: Knowing What to Avoid. 2019. *American Management association*.](https://www.amanet.org/articles/secrets-of-effective-feedback-knowing-what-to-avoid/)
+
+---
+
+[Previous Lesson: 3. Practice](03_characteristics_practice.md)
+
+[Next Lesson: 4. Practice](04_innefective_practice.md)

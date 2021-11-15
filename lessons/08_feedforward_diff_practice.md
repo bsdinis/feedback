@@ -18,3 +18,9 @@ From Marcelo, Manager from Quality Assurance:
 "[Name of engineer], it has come to my attention that you haven't submitted the last tasks that you were assigned. I would like to point out that there is a contract in the company that obligates you to follow the tasks in a timely manner. If you have any difficulty, let us know"
 
 Q: Is it feedback or feedforward?  Why?
+
+---
+
+[Previous Lesson: 8. Theory](08_feedforward_diff_theory.md)
+
+[Next Lesson: 9. Theory](09_feedforward_change_theory.md)

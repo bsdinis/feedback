@@ -57,3 +57,9 @@ However, it is still important to analyse the feedback you received in written a
 [3]: [Merriam-Webster Dictionary (n.d). yes-man. [Dictionary Entry]. Merriam-Webster](https://www.merriam-webster.com/dictionary/yes-man)
 
 [4]: [Kletische (2021, November). _Why "Yes Men" are Dangerous, and How to Easily Spot Them_. Kletische](https://kletische.com/surrounded-yes-men-dangerous/)
+
+---
+
+[Previous Lesson: 9. Practice](09_feedforward_change_practice.md)
+
+[Next Lesson: 10. Practice](10_asking_practice.md)

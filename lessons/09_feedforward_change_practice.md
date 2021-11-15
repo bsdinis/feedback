@@ -4,22 +4,27 @@ In this exercise you will read different examples that you need to transform fro
 
 1. **Feedback**: "The presentation slides you last submitted had many orthographic errors. This can't keep happening."
 
-        Feedforward: 
+        Feedforward:
 
 1. **Feedback**: "The latest code you submitted was very complicated to read."
 
-        Feedforward: 
+        Feedforward:
 
 1. **Feedback**: "The latest code you wrote was missing the correct initialization techniques, which is why it fails sometimes."
 
-        Feedforward: 
+        Feedforward:
 
 1. **Feedback**: "You spoke too slow on this presentation, people were bored and tired of listening to the topic."
 
-        Feedforward: 
+        Feedforward:
 
 1. **Feedback**: "You were disruptive in the last meeting, always being distracted by your colleagues."
 
-        Feedforward: 
+        Feedforward:
 
 
+---
+
+[Previous Lesson: 9. Theory](09_feedforward_change_theory.md)
+
+[Next Lesson: 10. Theory](10_asking_theory.md)

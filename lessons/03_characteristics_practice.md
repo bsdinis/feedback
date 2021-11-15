@@ -19,3 +19,9 @@ Here we are going to present to you several scenarios in which you will need to 
 1. **Original**: "Your participation in the latest group project did not meet all the standards. You need to do it better."
 
         Your version:
+
+---
+
+[Previous Lesson: 3. Theory](03_characteristics_theory.md)
+
+[Next Lesson: 4. Theory](04_innefective_theory.md)

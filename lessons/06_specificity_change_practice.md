@@ -35,3 +35,9 @@ After you identified in the previous section that the feedback was too general, 
 To make the specific feedback for Ana's previous code review you might want to take the previous points into consideration.
 
 Specific Feedback:
+
+---
+
+[Previous Lesson: 6. Theory](06_specificity_change_theory.md)
+
+[Next Lesson: 7. Theory](07_feedforward_intro_theory.md)

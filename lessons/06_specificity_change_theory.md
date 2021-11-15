@@ -58,3 +58,9 @@ Once the person that is going to give the feedback already thought in the previo
 [1]: [About DDI | Leadership Assessment & Development. (n.d.). DDI. Retrieved October 31, 2021](https://www.ddiworld.com/about/history)
 
 [1]: [CCL. (2021, September 15). Use SBI (situation-behavior-impact) to understand intent. Center for Creative Leadership (CCL). Retrieved November 14, 2021](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/.)
+
+---
+
+[Previous Lesson: 5. Practice](05_specificity_diff_practice.md)
+
+[Next Lesson: 6. Practice](06_specificity_change_practice.md)

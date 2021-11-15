@@ -28,3 +28,9 @@ Behaviors associated with the fastforward:
 [2]: [Gonzalez, J., &  Hirsch, J. (2018, January). Moving from Feedback to Feedforward. The Cult of Pedagogy Podcast](ttps://www.cultofpedagogy.com/pod/episode-87/)
 
 [3]: McDowall, A., Freeman, K., &  Marshall, S. (2014). Is Feedforward the way forward? A comparison of the effects of Feedforward coaching and Feedback. International Coaching Psychology Review, 9(2), 135–146
+
+---
+
+[Previous Lesson: 7. Practice](07_feedforward_intro_practice.md)
+
+[Next Lesson: 8. Practice](08_feedforward_diff_practice.md)

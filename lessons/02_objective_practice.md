@@ -24,3 +24,10 @@ In a similar scenario as before, what if instead of commenting 60% of the code, 
     |Modify behavior|Maintain behavior|         Why        |
     |:-------------:|:---------------:|:-------------------|
     |      __       |        __       | (your reason here) |
+
+
+---
+
+[Previous Lesson: 2. Theory](02_objective_theory.md)
+
+[Next Lesson: 3. Theory](03_characteristics_theory.md)

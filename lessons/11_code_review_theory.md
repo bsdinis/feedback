@@ -55,3 +55,9 @@ When reviewing code make sure that:
 [2]: [Google (n.d.). _Code Review Developer Guide_. Google](https://google.github.io/eng-practices/review/)
 
 [3]: [Google (n.d.). _The Standard of Code Review_. Google](https://google.github.io/eng-practices/review/reviewer/standard.html)
+
+---
+
+[Previous Lesson: 10. Practice](10_asking_practice.md)
+
+[Next Lesson: 11. Practice](11_code_review_practice.md)

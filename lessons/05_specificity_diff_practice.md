@@ -26,3 +26,9 @@ Answer:
 >Hi Néstor! I loved how you implemented the functions in your program. Although there were some parts in the code that you didn't follow some of the best practices. Try to double check this and commit the code again.
 
 Question: Did Ana give general or specific feedback to Néstor?
+
+---
+
+[Previous Lesson: 5. Theory](05_specificity_diff_theory.md)
+
+[Next Lesson: 6. Theory](06_specificity_change_theory.md)

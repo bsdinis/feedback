@@ -31,3 +31,9 @@ So, if the person who delivers the feedback does not explain the reference or th
 [1]: [Hattie, J. & Timperley, H. (2007). The power of feedback. Review of Educational Research, 77(1), 81–112.](https://doi.org/10.3102/003465430298487)
 
 [2]: [Ramaprasad, A. (1983). On the definition of feedback. Behavioral Science, 28(1), 4–13.](https://doi.org/10.1002/bs.3830280103)
+
+---
+
+[Previous Lesson: 4. Practice](04_innefective_practice.md)
+
+[Next Lesson: 5. Practice](05_specificity_diff_practice.md)

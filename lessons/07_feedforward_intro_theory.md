@@ -40,3 +40,9 @@ As it is explained here, the main point of the feedforward is to focus in changi
 [2]: [Logan, R. K. (2015). Feedforward, I. A. Richards, cybernetics and Marshall McLuhan. CORE. Retrieved October 31, 2021](https://core.ac.uk/display/54849829)
 
 [3]: [Marshall Goldsmith. (2007). Marshall Goldsmith and FeedForward[Video]. Youtube.](https://www.youtube.com/watch?v=tFX74GIxca4&amp;ab_channel=MarshallGoldsmith)
+
+---
+
+[Previous Lesson: 6. Practice](06_specificity_change_practice.md)
+
+[Next Lesson: 7. Practice](07_feedforward_intro_practice.md)

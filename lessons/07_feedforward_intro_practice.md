@@ -17,3 +17,9 @@ Q: Is it feedforward? Why?
 "Your past commits had not been the best. You should have paid more attention to the previous comments, that way you would have less errors"
 
 Q: Is it feedforward? Why?
+
+---
+
+[Previous Lesson: 7. Theory](07_feedforward_intro_theory.md)
+
+[Next Lesson: 8. Theory](08_feedforward_diff_theory.md)
