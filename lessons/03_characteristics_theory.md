@@ -4,7 +4,7 @@
 
 1. Effective feedback must be **specific**:
     
-    In relation to a task, action or behavior, the given or received feeback should be specific and detailed. This indicates that the feedback is focused on actually driving and allowing an improvement to happen, since it's much more feasible for somebody to improve their behavior if the feedback was task-oriented, which gives them a point-of-reference to grow from since they know the exact situation being described. 
+    In relation to a task, action or, behavior, the given or received feedback should be specific and detailed. This indicates that the feedback is focused on actually driving and allowing an improvement to happen since it's much more feasible for somebody to improve their behavior if the feedback was task-oriented, which gives them a base to grow from since they know the exact situation being described. 
 
 1. Effective feedback should be **meaningful**:
     
@@ -19,13 +19,13 @@
     "However, remember to always keep your feedback meaningful. Praising effort is another easy trap to fall into" (Jory MacKay, 2017). This is also a very important factor to remember. You can't forget to be honest and truthful to what you are saying for fear of being too harsh, since some feedback will be harder to give than others, and we should not hide what we really need to say. There is always a good balance to be found between honesty and directness. 
 
 
-1. Effective feedback should be at an **appropiate time and place**:
+1. Effective feedback should be at an **appropriate time and place**:
 
-    When giving feedback, you should prepare for the meeting and arrange the best possible conditions for it, time and location wise, for the people involved in the process. 
+    When giving feedback, you should prepare for the meeting and arrange the best possible conditions for it, time and location-wise, for the people involved in the process. 
     
-    Most people prefer at a quiet or private location, where they can be comfortable and have the space to react and process what is being said and present their own position. 
+    Most people prefer a quiet or private location, where they can be comfortable and have the space to react and process what is being said and present their own position. 
 
-    Also, it should account for having enough time for the meeting. There is no point to giving feedback if this is going to be given so quickly that the person can't tell you their own thoughts.  
+    Also, it should account for having enough time for the meeting. There is no point in giving feedback if this is going to be given so quickly that the person can't tell you their own thoughts.  
 
 1. Effective feedback should be **future-oriented**:
 
@@ -33,7 +33,7 @@
         
    >  There is a section dedicated to explaining and expanding on this subject and its details later on in this course, which is also known as *"feedforward"*.
 
-There are many other elements that can help in building effective feedback, and these can be more helpful to some people than others, since we are all different people and sometimes we can be more receptive in certain scenarios than in others, but one key thing to always have present is to: give feedback as we would like to receive it. This means we should attempt to put ourselves in the other person's position, and to take this into account when we elaborate the feedback we want to give. 
+There are many other elements that can help in building effective feedback, and these can be more helpful to some people than others, since we are all different people and sometimes we can be more receptive in certain scenarios than in others, but one key thing to always have present is to: give feedback as we would like to receive it. This means we should attempt to put ourselves in the other person's position and take this into account when we elaborate on the feedback we want to give. 
 
 
 References:

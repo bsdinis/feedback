@@ -13,12 +13,12 @@ The first step is to identify a **specific** behavior or action that you want so
 Then, you should think of suggestions and advice for the **future** that the person could apply, which reinforces the other person's motivation to be their best possible version. This means that you want the other person to expand their potential and their skills, and through the received advice or suggestion they can get an actual foundation to work from.
 
 
-Some examples of feedforward senteces would be: 
+Some examples of feedforward sentences would be: 
 
-* "In the future, I suggest that you make your presentations slides with only 10-20 words maximum per slide." 
+* "In the future, I suggest that you make your presentation slides with only 10-20 words maximum per slide." 
 * "For next programming project deliveries, I recommend leaving a lot of time for adding explanatory comments to the more complicated lines of code."
 
-Notice how these examples reinforce the future-oriented approach of feedforward, and not on the past mistake or behavior. 
+Notice how these examples reinforce the future-oriented approach of feedforward and do not focus on the past mistake or behavior. 
 
 References: 
 * Lauritsen, J. (2021, June 16). The skills you'll need to evolve from feedback to feedforward. *cornerstone* Blog. 

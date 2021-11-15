@@ -1,6 +1,6 @@
 # 3. Characteristics of effective feedback: Practice
 
-Here we are going to present to you several scenarios in which you will need to add or change what you consider would help *complete* or **fix** the feedback given, following the elements explained on the theory section, as well as others that you consider would make this feedback be more **effective**.
+Here we are going to present to you several scenarios in which you will need to add or change what you consider would help *complete* or **fix** the feedback given, following the elements explained in the theory section, as well as others that you consider would make this feedback be more **effective**.
 
 1. **Original**: "Maria, the work you last delivered had many errors. Correct them please."
 

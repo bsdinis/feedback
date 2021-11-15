@@ -16,7 +16,7 @@ Now we are going to present to you different scenarios in which you need to mark
     |      __       |        __       | (your reason here) |
 
 
-3. In a similar scenario as before, what about if instead of commenting 60% of the code, they do not add comments at all. Would you want them to maintain or modify this behavior? 
+3. In a similar scenario as before, what if instead of commenting 60% of the code, they do not add comments at all. Would you want them to maintain or modify this behavior? 
 
     |Modify behavior|Maintain behavior|         Why        |
     |:-------------:|:---------------:|:-------------------|

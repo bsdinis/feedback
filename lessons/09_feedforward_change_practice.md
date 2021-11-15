@@ -2,7 +2,7 @@
 
 In this exercise you will read different examples that you need to transform from **feedback** into **feedforward**:
 
-1. **Feedback**: "The presentation slides you last submitted had many ortographic errors. This can't keep happening."
+1. **Feedback**: "The presentation slides you last submitted had many orthographic errors. This can't keep happening."
 
         Feedforward: 
 
